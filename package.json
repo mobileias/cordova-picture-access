@@ -1,4 +1,24 @@
 {
-   "name": "com.markveys.picture-access",
-   "version": "0.0.1"
+  "name": "com.markveys.picture-access",
+  "version": "0.0.1",
+  "description": "\n    This plugin allows you to check picture-access for ios.\n    ",
+  "cordova": {
+    "id": "com.markveys.picture-access",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobileias/cordova-picture-access.git"
+  },
+  "keywords": [
+    "cordova-ios"
+  ],
+  "author": "mobileias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berliner/cordova-picture-access/issues"
+  },
+  "homepage": "https://github.com/berliner/cordova-picture-access#readme"
 }
